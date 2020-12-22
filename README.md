@@ -1,2 +1,2 @@
 # gitLearn
- 创建一个分支
+	create a brance quick and merge
