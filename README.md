@@ -1,2 +1,3 @@
 # gitLearn
-Creating a new branch is quick & simple.
+	create a brance quick and merge
+
