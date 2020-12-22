@@ -1,2 +1,2 @@
 # gitLearn
- 创建一个分支
+Creating a new branch is quick & simple.
